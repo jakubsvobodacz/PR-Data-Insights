@@ -1,0 +1,50 @@
+{
+  "Jar Jar": {
+    "prsReceivingChanges": 7,
+    "changesRequested": 34,
+    "totalPRsOpened": 191,
+    "changeRequestRatio": "3.7"
+  },
+  "Winnie the Pooh": {
+    "prsReceivingChanges": 11,
+    "changesRequested": 3,
+    "totalPRsOpened": 58,
+    "changeRequestRatio": "19.0"
+  },
+  "Leonardo": {
+    "prsReceivingChanges": 17,
+    "changesRequested": 3,
+    "totalPRsOpened": 73,
+    "changeRequestRatio": "23.3"
+  },
+  "Bugs Bunny": {
+    "prsReceivingChanges": 2,
+    "changesRequested": 2,
+    "totalPRsOpened": 15,
+    "changeRequestRatio": "13.3"
+  },
+  "Duffy": {
+    "prsReceivingChanges": 1,
+    "changesRequested": 19,
+    "totalPRsOpened": 33,
+    "changeRequestRatio": "3.0"
+  },
+  "Donald": {
+    "prsReceivingChanges": 8,
+    "changesRequested": 2,
+    "totalPRsOpened": 49,
+    "changeRequestRatio": "16.3"
+  },
+  "Goofy": {
+    "prsReceivingChanges": 1,
+    "changesRequested": 2,
+    "totalPRsOpened": 13,
+    "changeRequestRatio": "0.0"
+  },
+  "Daisy": {
+    "prsReceivingChanges": 16,
+    "changesRequested": 5,
+    "totalPRsOpened": 32,
+    "changeRequestRatio": "50.0"
+  }
+}

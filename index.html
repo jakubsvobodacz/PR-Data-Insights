@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Engineering Performance</title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="style.css" />
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Engineering Performance</h1>
+
+      <!-- Chart sections -->
+      <div class="charts-container">
+        <div class="chart-section">
+          <h2>Pull Request Changes</h2>
+          <div class="chart-wrapper">
+            <canvas id="prChart1"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-section">
+          <h2>Review Activity</h2>
+          <div class="chart-wrapper">
+            <canvas id="prChart2"></canvas>
+          </div>
+        </div>
+
+        <div class="chart-section">
+          <h2>Change Request Rate</h2>
+          <div class="chart-wrapper">
+            <canvas id="prChart3"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Link to external JavaScript file -->
+    <script src="script.js"></script>
+  </body>
+</html>
