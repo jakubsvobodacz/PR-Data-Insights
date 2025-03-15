@@ -41,6 +41,14 @@ The app fetches PR data from a GitHub repository of your choice and generates [c
 
 I recommend using either `npx http-server` or `python -m http.server` to serve the `index.html` file.
 
+## Example Results
+
+![Example Results](./images/screen1.png)
+
+![Example Results](./images/screen2.png)
+
+![Example Results](./images/screen3.png)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
