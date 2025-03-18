@@ -4,6 +4,10 @@ This simple node app helps engineering managers understand their team's _Request
 
 The app fetches PR data from a GitHub repository of your choice and generates [chart.js](https://github.com/chartjs) based visualizations about team members' review behaviors in relation to _Request for Changes_.
 
+You can read an article where I dig deeper into the thoughts behind this: 
+
+[Is “Request for Changes” an Essential Pull Request Insight — or Just a Misleading Metric?](https://medium.com/gitconnected/is-request-for-changes-an-essential-pull-request-insight-or-just-a-misleading-metric-da6311b9f3ac) 
+
 ## Features
 
 - **PR Review Analytics**: Track and visualize how often team members' PRs receive or give change requests
